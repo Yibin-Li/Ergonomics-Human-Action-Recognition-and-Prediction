@@ -1,6 +1,8 @@
 model 1: Trained from 45 different activities (namely 45 csv files in alex_data/processed_readone). 70% accuracy
 model 2: Trained from 13 activities that combined all lifting, pulling, reaching, and pushing activities together. 97% accuracy
 model 3: Trained from 15 activities, 60 windws (add 2 activities, Lifiting_OneH and Pulling_OneH in addition to the model above) 95% accuracy. 
-model 4: Same as model 3 except using 10 window size. 93% accuracy.
-model 5: Same as model 3 except using 120 window size. ???% accuracy.
-model 6: Same as model 3 except using 180 window size. ???% accuracy.
+model 4: Same as model 3 except using 10 window size. 93% accuracy. (not yet)
+model 5: Same as model 3 except using 120 window size. 93% accuracy.
+model 6: Same as model 3 except using 180 window size. 92% accuracy. 
+model 7: Same as model 3 except using 720 window size. 94% accuracy.
+model
