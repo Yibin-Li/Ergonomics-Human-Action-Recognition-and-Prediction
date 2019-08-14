@@ -1,3 +1,5 @@
+Each row means train on what window size, test it on what window size, and have total accuracy of what. The result is not comprehensive. To see the most important one, see Loop Fast notebook. 
+
 Train	Test	Accuracy
 10	10	57%
 10	30	52%
