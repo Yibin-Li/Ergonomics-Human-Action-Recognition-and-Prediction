@@ -10,7 +10,8 @@ model 9: Same as model 3 except using 30 window size. 95% accuracy
 model 10: Same as model 3 except using 45 window size. 93% accuracy.
 model 11: Same as model 3 except using 90 window size. 93% accuracy.
 model 10p: Same as model 10 except using 0.8:0.1:0.1 train, validation, test. 94% accuracy.
-model 12: Same as model 3 except using 14 subjects (originally 7) and using 0.8:0.1:0.1 train, validation, test. 94% accuracy.
+model 12: Same as model 3 except using 14 subjects (originally 7) and using 0.6:0.2:0.2 train, validation, test. 94% accuracy.
+model 13: Same as model 3 except using 16 subjects (originally 7) and using 0.8:0.1:0.1 train, validation, test. 93% accuracy.
 
 model model_Spinetrack_Carrying_Different_Weight: train on Carrying with different weights. 85% accuracy
 model_Spinetrack_raw_data: train on raw data. 90% accuracy
